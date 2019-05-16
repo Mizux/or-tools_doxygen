@@ -1,0 +1,7 @@
+var classoperations__research_1_1MatrixOrFunction_3_01ScalarType_00_01std_1_1vector_3_01std_1_1vecto331b87b012b552049bbe922a0bbfe7ac =
+[
+    [ "MatrixOrFunction", "classoperations__research_1_1MatrixOrFunction_3_01ScalarType_00_01std_1_1vector_3_01std_1_1vecto331b87b012b552049bbe922a0bbfe7ac.html#ab231e701473ba1e484ce16b151f3a446", null ],
+    [ "Reset", "classoperations__research_1_1MatrixOrFunction_3_01ScalarType_00_01std_1_1vector_3_01std_1_1vecto331b87b012b552049bbe922a0bbfe7ac.html#adee1c1af3e1354dbf622e937da8d22f4", null ],
+    [ "operator()", "classoperations__research_1_1MatrixOrFunction_3_01ScalarType_00_01std_1_1vector_3_01std_1_1vecto331b87b012b552049bbe922a0bbfe7ac.html#a466c01a8359ffdbd7d8fdbdd84de2269", null ],
+    [ "Check", "classoperations__research_1_1MatrixOrFunction_3_01ScalarType_00_01std_1_1vector_3_01std_1_1vecto331b87b012b552049bbe922a0bbfe7ac.html#aa366b39f21e8fa22b569f184dd41ce9c", null ]
+];

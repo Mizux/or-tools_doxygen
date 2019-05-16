@@ -1,0 +1,27 @@
+var classoperations__research_1_1sat_1_1LiteralWatchers =
+[
+    [ "LiteralWatchers", "classoperations__research_1_1sat_1_1LiteralWatchers.html#a4c8e18854aa1b2880979366be2a079a5", null ],
+    [ "~LiteralWatchers", "classoperations__research_1_1sat_1_1LiteralWatchers.html#a2949b427069637cbd8e2e6e3dbbe7175", null ],
+    [ "Resize", "classoperations__research_1_1sat_1_1LiteralWatchers.html#a33cf7e3b637a69dc88edb14e67d310a6", null ],
+    [ "Propagate", "classoperations__research_1_1sat_1_1LiteralWatchers.html#ae7bfa9b5a4a36660063abbc0dd51fa42", null ],
+    [ "Reason", "classoperations__research_1_1sat_1_1LiteralWatchers.html#a2a847cde738e9fd66a4dffde1e0beb8d", null ],
+    [ "ReasonClause", "classoperations__research_1_1sat_1_1LiteralWatchers.html#a69df1712f6da73f6ae81385240fa795d", null ],
+    [ "AddClause", "classoperations__research_1_1sat_1_1LiteralWatchers.html#a8366470a6aa7243144c7ae8d821ba5a5", null ],
+    [ "AddRemovableClause", "classoperations__research_1_1sat_1_1LiteralWatchers.html#adb45c065fb4eb8cff2211125162f4230", null ],
+    [ "LazyDetach", "classoperations__research_1_1sat_1_1LiteralWatchers.html#aa7dde0a0397ba60e3f3be09ed8ad9070", null ],
+    [ "CleanUpWatchers", "classoperations__research_1_1sat_1_1LiteralWatchers.html#aa13e411efd590790bea09b9901fd987a", null ],
+    [ "Detach", "classoperations__research_1_1sat_1_1LiteralWatchers.html#aacf44059a1112045e8e80230a828cb7a", null ],
+    [ "Attach", "classoperations__research_1_1sat_1_1LiteralWatchers.html#a9ce2293d2075db929704f866a9030be5", null ],
+    [ "DeleteDetachedClauses", "classoperations__research_1_1sat_1_1LiteralWatchers.html#a84e1ab6a9621fb5241600a13ed41055e", null ],
+    [ "num_clauses", "classoperations__research_1_1sat_1_1LiteralWatchers.html#aab0664ece5561b730265b1a7304d9858", null ],
+    [ "AllClausesInCreationOrder", "classoperations__research_1_1sat_1_1LiteralWatchers.html#a642b24ed4e002339e9757a4b6093ed3c", null ],
+    [ "IsRemovable", "classoperations__research_1_1sat_1_1LiteralWatchers.html#ac520d8e271b1cb93c323efce3167d874", null ],
+    [ "num_removable_clauses", "classoperations__research_1_1sat_1_1LiteralWatchers.html#a6970d1b5d13620d72ffc83d26fad59b6", null ],
+    [ "mutable_clauses_info", "classoperations__research_1_1sat_1_1LiteralWatchers.html#ae8e6e78d7af113ac6edecac482b0e81a", null ],
+    [ "num_inspected_clauses", "classoperations__research_1_1sat_1_1LiteralWatchers.html#a8e9955f5948c76b387a5ee2d1331886b", null ],
+    [ "num_inspected_clause_literals", "classoperations__research_1_1sat_1_1LiteralWatchers.html#ad618c8390b2d7d74203a01f56a2fdca4", null ],
+    [ "num_watched_clauses", "classoperations__research_1_1sat_1_1LiteralWatchers.html#a0cab2092efa8710b3edefb5d26a46ec0", null ],
+    [ "SetDratProofHandler", "classoperations__research_1_1sat_1_1LiteralWatchers.html#a161a3e6d7372c7d44540bad0e54d8c22", null ],
+    [ "NextClauseToMinimize", "classoperations__research_1_1sat_1_1LiteralWatchers.html#a6a6ba728e4b3a23c8ef51b8310460d0c", null ],
+    [ "ResetToMinimizeIndex", "classoperations__research_1_1sat_1_1LiteralWatchers.html#aa075fed1b46ad98c584f6a3735bd205a", null ]
+];

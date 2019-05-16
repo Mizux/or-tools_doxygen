@@ -1,0 +1,28 @@
+var classoperations__research_1_1sat_1_1BinaryImplicationGraph =
+[
+    [ "BinaryImplicationGraph", "classoperations__research_1_1sat_1_1BinaryImplicationGraph.html#a86ea320dad04144939131e7e12dc8659", null ],
+    [ "~BinaryImplicationGraph", "classoperations__research_1_1sat_1_1BinaryImplicationGraph.html#af70a61ae210f4a8b23b28c793952d6b0", null ],
+    [ "Propagate", "classoperations__research_1_1sat_1_1BinaryImplicationGraph.html#a33a5d176dddf3a86e0b08a9d94195d46", null ],
+    [ "Reason", "classoperations__research_1_1sat_1_1BinaryImplicationGraph.html#a5e6c045d3c888e2a583ae8539eec14d8", null ],
+    [ "Resize", "classoperations__research_1_1sat_1_1BinaryImplicationGraph.html#a1e21fcb1c0adc1356d2d04102fe920af", null ],
+    [ "AddBinaryClause", "classoperations__research_1_1sat_1_1BinaryImplicationGraph.html#afdf7cda61327a0ee3b07971ef7270e49", null ],
+    [ "AddBinaryClauseDuringSearch", "classoperations__research_1_1sat_1_1BinaryImplicationGraph.html#af6326e0472ecb0caf2ddc29702b98ff8", null ],
+    [ "AddAtMostOne", "classoperations__research_1_1sat_1_1BinaryImplicationGraph.html#a7caab66290342b78151a0f32547e09dd", null ],
+    [ "MinimizeConflictWithReachability", "classoperations__research_1_1sat_1_1BinaryImplicationGraph.html#a3cbe67b46860621bfa57c87f5247a385", null ],
+    [ "MinimizeConflictExperimental", "classoperations__research_1_1sat_1_1BinaryImplicationGraph.html#aa37e2a622549d733c3bbb8b340f3c473", null ],
+    [ "MinimizeConflictFirst", "classoperations__research_1_1sat_1_1BinaryImplicationGraph.html#ab5846564f39bf6ba28ecdced8429d492", null ],
+    [ "MinimizeConflictFirstWithTransitiveReduction", "classoperations__research_1_1sat_1_1BinaryImplicationGraph.html#acd2f7544fbfffa57a67fcfa69a0cda1d", null ],
+    [ "RemoveFixedVariables", "classoperations__research_1_1sat_1_1BinaryImplicationGraph.html#a60edd5304f165a4c5d6dd6c29a1d20b3", null ],
+    [ "RemoveDuplicates", "classoperations__research_1_1sat_1_1BinaryImplicationGraph.html#a3bfd3e4cd2ad6216c7196c7740067cb1", null ],
+    [ "DetectEquivalences", "classoperations__research_1_1sat_1_1BinaryImplicationGraph.html#a332054947cb9033eae08b9427b3594e1", null ],
+    [ "RepresentativeOf", "classoperations__research_1_1sat_1_1BinaryImplicationGraph.html#a72a1ed06bce01ce3ad0c9764f7afe416", null ],
+    [ "ComputeTransitiveReduction", "classoperations__research_1_1sat_1_1BinaryImplicationGraph.html#ac1b27d73445395513d8cde3bb3808471", null ],
+    [ "TransformIntoMaxCliques", "classoperations__research_1_1sat_1_1BinaryImplicationGraph.html#a5930ef5612b5eebdf8321bfccb6806df", null ],
+    [ "num_propagations", "classoperations__research_1_1sat_1_1BinaryImplicationGraph.html#ac913dc589da998573bdba05f9cd87a49", null ],
+    [ "num_inspections", "classoperations__research_1_1sat_1_1BinaryImplicationGraph.html#a63938ad5776f894b79187fc015e7e9f2", null ],
+    [ "num_minimization", "classoperations__research_1_1sat_1_1BinaryImplicationGraph.html#a2fea29f80fd6bce3b3d816194e184778", null ],
+    [ "num_literals_removed", "classoperations__research_1_1sat_1_1BinaryImplicationGraph.html#a0a20870949f056d189856a3bfb7c8feb", null ],
+    [ "num_redundant_implications", "classoperations__research_1_1sat_1_1BinaryImplicationGraph.html#a1001d6812b207b4ab6180c54de59e67a", null ],
+    [ "NumberOfImplications", "classoperations__research_1_1sat_1_1BinaryImplicationGraph.html#a3879339d6803b1cc7b7da111b08d6568", null ],
+    [ "ExtractAllBinaryClauses", "classoperations__research_1_1sat_1_1BinaryImplicationGraph.html#a2735353cc3b14a2ef6574ad9f52c06b7", null ]
+];

@@ -1,0 +1,21 @@
+var searchData=
+[
+  ['pathlns',['PATHLNS',['../classoperations__research_1_1Solver.html#ac3c5b22fad8060ca1a66bd928182d8a4aae749f308386810f29338c96daf0e4f8',1,'operations_research::Solver']]],
+  ['pickup',['PICKUP',['../classoperations__research_1_1TypeRegulationsChecker.html#a2d70db5fae656cb4a04ee1c9e830d4a0a0fa19a9622775519017039dc924ee9f4',1,'operations_research::TypeRegulationsChecker']]],
+  ['pickup_5fand_5fdelivery_5ffifo',['PICKUP_AND_DELIVERY_FIFO',['../classoperations__research_1_1RoutingModel.html#ab3feb42fa0a2f09b014d55818dae2285abad32d53044f07d2c49e028c49ce8699',1,'operations_research::RoutingModel']]],
+  ['pickup_5fand_5fdelivery_5flifo',['PICKUP_AND_DELIVERY_LIFO',['../classoperations__research_1_1RoutingModel.html#ab3feb42fa0a2f09b014d55818dae2285ad27c7b752389c8da858fb6edafe443f3',1,'operations_research::RoutingModel']]],
+  ['pickup_5fand_5fdelivery_5fno_5forder',['PICKUP_AND_DELIVERY_NO_ORDER',['../classoperations__research_1_1RoutingModel.html#ab3feb42fa0a2f09b014d55818dae2285a7da05b352a875f222b611ace4d9875a0',1,'operations_research::RoutingModel']]],
+  ['possible_5foverflow',['POSSIBLE_OVERFLOW',['../classoperations__research_1_1SimpleLinearSumAssignment.html#abb18c90a17fde10536345a29d7fd57d6a478e5f882eb46a79470c8fcea79a6bb8',1,'operations_research::SimpleLinearSumAssignment::POSSIBLE_OVERFLOW()'],['../classoperations__research_1_1SimpleMaxFlow.html#a8a7acde49c4d55f2eb42e2b6869cdb3da18a3ff25435f10be68329d4b39de4700',1,'operations_research::SimpleMaxFlow::POSSIBLE_OVERFLOW()']]],
+  ['presolve',['PRESOLVE',['../classoperations__research_1_1MPSolverParameters.html#ac8f18a88f586c725cfffc613499926a0a1f92ab900139fd7649eace59942f1e0f',1,'operations_research::MPSolverParameters']]],
+  ['presolve_5foff',['PRESOLVE_OFF',['../classoperations__research_1_1MPSolverParameters.html#a45d822ac67d10cc80b2f70fe6ec555a4a6e658228fc28195fb00675d3dfec2c85',1,'operations_research::MPSolverParameters']]],
+  ['presolve_5fon',['PRESOLVE_ON',['../classoperations__research_1_1MPSolverParameters.html#a45d822ac67d10cc80b2f70fe6ec555a4ac8e04ac3295af6c505a22757490bb018',1,'operations_research::MPSolverParameters']]],
+  ['primal',['PRIMAL',['../classoperations__research_1_1MPSolverParameters.html#ab297405e6084c08a9058012361376762a9fa228e5a51b8e22346b46d0f866e68d',1,'operations_research::MPSolverParameters']]],
+  ['primal_5ffeasible',['PRIMAL_FEASIBLE',['../namespaceoperations__research_1_1glop.html#a29264bd7a9b65bba5fbf2589eb637272a2dcc8f5d91cb2aa2065b8305bf2d5cbd',1,'operations_research::glop']]],
+  ['primal_5finfeasible',['PRIMAL_INFEASIBLE',['../namespaceoperations__research_1_1glop.html#a29264bd7a9b65bba5fbf2589eb637272a7850fcfea005b86b2a3fa0d4293c5ee0',1,'operations_research::glop']]],
+  ['primal_5ftolerance',['PRIMAL_TOLERANCE',['../classoperations__research_1_1MPSolverParameters.html#a3834b74a8764c1c971e10ce9ba2f265ea57e959f9c5ede1f3e683169609fb0488',1,'operations_research::MPSolverParameters']]],
+  ['primal_5funbounded',['PRIMAL_UNBOUNDED',['../namespaceoperations__research_1_1glop.html#a29264bd7a9b65bba5fbf2589eb637272a8351cc0ea544c393b3e26fdf42520844',1,'operations_research::glop']]],
+  ['print_5fgraph_5fadjacency_5flists',['PRINT_GRAPH_ADJACENCY_LISTS',['../namespaceutil.html#ae705e1342dacc10a13fb3f11f91d0696aaed5759e3b6e3a8592c9a21e0048b565',1,'util']]],
+  ['print_5fgraph_5fadjacency_5flists_5fsorted',['PRINT_GRAPH_ADJACENCY_LISTS_SORTED',['../namespaceutil.html#ae705e1342dacc10a13fb3f11f91d0696a454bb1ede69e280a1e4959acb82748ef',1,'util']]],
+  ['print_5fgraph_5farcs',['PRINT_GRAPH_ARCS',['../namespaceutil.html#ae705e1342dacc10a13fb3f11f91d0696acac9245da1bf36d1d9382dc579e1a4fd',1,'util']]],
+  ['problem_5finfeasible',['PROBLEM_INFEASIBLE',['../classoperations__research_1_1Solver.html#a5b5712802e63dcd3ee5abfd37e0f2a95a30b34e2664f9b1e2fb0d1347d7a87674',1,'operations_research::Solver']]]
+];

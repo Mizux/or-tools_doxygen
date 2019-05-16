@@ -1,0 +1,28 @@
+var classoperations__research_1_1sat_1_1IntegerEncoder =
+[
+    [ "ValueLiteralPair", "structoperations__research_1_1sat_1_1IntegerEncoder_1_1ValueLiteralPair.html", "structoperations__research_1_1sat_1_1IntegerEncoder_1_1ValueLiteralPair" ],
+    [ "IntegerEncoder", "classoperations__research_1_1sat_1_1IntegerEncoder.html#a56acaedd036489098fb1a9fffbf56299", null ],
+    [ "~IntegerEncoder", "classoperations__research_1_1sat_1_1IntegerEncoder.html#a949fce00ad5651c2b2d1fa948b00bab3", null ],
+    [ "FullyEncodeVariable", "classoperations__research_1_1sat_1_1IntegerEncoder.html#a44f7926d822f4f2f659be6f503090ac4", null ],
+    [ "VariableIsFullyEncoded", "classoperations__research_1_1sat_1_1IntegerEncoder.html#a59abe9efe4246f146066483c1955e602", null ],
+    [ "FullDomainEncoding", "classoperations__research_1_1sat_1_1IntegerEncoder.html#aa2bcbc74abdd1f29443b14d5cb632c12", null ],
+    [ "PartialDomainEncoding", "classoperations__research_1_1sat_1_1IntegerEncoder.html#a9e41445a00235b1ebc356127810c7529", null ],
+    [ "Canonicalize", "classoperations__research_1_1sat_1_1IntegerEncoder.html#ab7dbcf722d0b07c959f7ff32f85bf315", null ],
+    [ "GetOrCreateAssociatedLiteral", "classoperations__research_1_1sat_1_1IntegerEncoder.html#a86897b73c47086f4bc261f9424b47de7", null ],
+    [ "GetOrCreateLiteralAssociatedToEquality", "classoperations__research_1_1sat_1_1IntegerEncoder.html#af0a2aeea649e70334c5b44dca14a5ae2", null ],
+    [ "AssociateToIntegerLiteral", "classoperations__research_1_1sat_1_1IntegerEncoder.html#a1ec52e921c18df159386147aa3cdd7b4", null ],
+    [ "AssociateToIntegerEqualValue", "classoperations__research_1_1sat_1_1IntegerEncoder.html#a9bf605bfbb224230f6c65067fdd26c34", null ],
+    [ "LiteralIsAssociated", "classoperations__research_1_1sat_1_1IntegerEncoder.html#a2c35b8f98baecd51741072760efdbefe", null ],
+    [ "GetAssociatedLiteral", "classoperations__research_1_1sat_1_1IntegerEncoder.html#aa5eb2e1af5ae40ecb5dc7e976c9d8991", null ],
+    [ "DisableImplicationBetweenLiteral", "classoperations__research_1_1sat_1_1IntegerEncoder.html#aeb35d5a03917142051ba332e5b8c4f47", null ],
+    [ "AddAllImplicationsBetweenAssociatedLiterals", "classoperations__research_1_1sat_1_1IntegerEncoder.html#a42e6e7891342273c5e080447a0d11d81", null ],
+    [ "GetIntegerLiterals", "classoperations__research_1_1sat_1_1IntegerEncoder.html#a66e8ea542f7cb0d379a491c79df3c6e2", null ],
+    [ "GetAllIntegerLiterals", "classoperations__research_1_1sat_1_1IntegerEncoder.html#a3e7c779e47b22997455a07c4419e4082", null ],
+    [ "NewlyFixedIntegerLiterals", "classoperations__research_1_1sat_1_1IntegerEncoder.html#a60d14016ab6d97efbdd659c097dce759", null ],
+    [ "ClearNewlyFixedIntegerLiterals", "classoperations__research_1_1sat_1_1IntegerEncoder.html#abbb56ac18986a20dd9aeae6a83cfcb5f", null ],
+    [ "GetLiteralView", "classoperations__research_1_1sat_1_1IntegerEncoder.html#a67429ccec189e8be975f9c1956540ea9", null ],
+    [ "SearchForLiteralAtOrBefore", "classoperations__research_1_1sat_1_1IntegerEncoder.html#a597efd42efcef647f5ee211e658d8598", null ],
+    [ "GetTrueLiteral", "classoperations__research_1_1sat_1_1IntegerEncoder.html#a575c98a8e638de20b5a3a5861263c732", null ],
+    [ "GetFalseLiteral", "classoperations__research_1_1sat_1_1IntegerEncoder.html#a435301889907352870b1ba8f2f013a21", null ],
+    [ "PartialGreaterThanEncoding", "classoperations__research_1_1sat_1_1IntegerEncoder.html#a5b52b6f34f099aa59915f0c8ee6a9c90", null ]
+];

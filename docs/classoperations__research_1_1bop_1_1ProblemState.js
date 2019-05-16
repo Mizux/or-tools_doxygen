@@ -1,0 +1,28 @@
+var classoperations__research_1_1bop_1_1ProblemState =
+[
+    [ "ProblemState", "classoperations__research_1_1bop_1_1ProblemState.html#abbd137e7e538fa06cced6163357ab82d", null ],
+    [ "SetParameters", "classoperations__research_1_1bop_1_1ProblemState.html#a442df7bc09015fc2a248c1b7ec18ac05", null ],
+    [ "GetParameters", "classoperations__research_1_1bop_1_1ProblemState.html#a92caf3b1825045c28cdb6517798725ab", null ],
+    [ "set_assignment_preference", "classoperations__research_1_1bop_1_1ProblemState.html#a086bf02972aa42654ab86b81ce0a375d", null ],
+    [ "assignment_preference", "classoperations__research_1_1bop_1_1ProblemState.html#a796782add51629dc5dc8e600b1e193d8", null ],
+    [ "MergeLearnedInfo", "classoperations__research_1_1bop_1_1ProblemState.html#a66e1a0e14cfd6b3310237e4243df1295", null ],
+    [ "GetLearnedInfo", "classoperations__research_1_1bop_1_1ProblemState.html#a559199c417440cd27d38fc73ce4eb3f0", null ],
+    [ "update_stamp", "classoperations__research_1_1bop_1_1ProblemState.html#a37e4f0e30665c36458bb4045676c4f29", null ],
+    [ "MarkAsOptimal", "classoperations__research_1_1bop_1_1ProblemState.html#aa896f3a9b72e3f23cd262c140452d524", null ],
+    [ "MarkAsInfeasible", "classoperations__research_1_1bop_1_1ProblemState.html#a25e7b8cb06ef8dd10edadebaf4f5da31", null ],
+    [ "IsOptimal", "classoperations__research_1_1bop_1_1ProblemState.html#a4d7086201d5601ef4c0ac88352b8a6db", null ],
+    [ "IsInfeasible", "classoperations__research_1_1bop_1_1ProblemState.html#ae9f15dd37ea8e6b30818e5774711881c", null ],
+    [ "IsVariableFixed", "classoperations__research_1_1bop_1_1ProblemState.html#a030122fb930ed59f36767eab84cba7c4", null ],
+    [ "is_fixed", "classoperations__research_1_1bop_1_1ProblemState.html#a1e7d64ea8664418d5f5cd0d879c6ae3c", null ],
+    [ "GetVariableFixedValue", "classoperations__research_1_1bop_1_1ProblemState.html#af40852fbc95b4ae5b9407da7d219b93e", null ],
+    [ "fixed_values", "classoperations__research_1_1bop_1_1ProblemState.html#a1f7b17c4291fb757cb96d4478892049d", null ],
+    [ "lp_values", "classoperations__research_1_1bop_1_1ProblemState.html#a35445e5182219434efa8f6edf366e0d6", null ],
+    [ "solution", "classoperations__research_1_1bop_1_1ProblemState.html#a9954d2c7c1a7ef7e51646aca7299e7a1", null ],
+    [ "original_problem", "classoperations__research_1_1bop_1_1ProblemState.html#af24a4ca8384fb00cd4b0ecb66f071b0b", null ],
+    [ "lower_bound", "classoperations__research_1_1bop_1_1ProblemState.html#ae587ed9f26f7a1db67ed3ed180c41acf", null ],
+    [ "upper_bound", "classoperations__research_1_1bop_1_1ProblemState.html#ae4b490780612fc5e7ca0d431b6656f87", null ],
+    [ "GetScaledLowerBound", "classoperations__research_1_1bop_1_1ProblemState.html#ae03d93d94e1c36f70e6a036b0c22f02b", null ],
+    [ "NewlyAddedBinaryClauses", "classoperations__research_1_1bop_1_1ProblemState.html#aca66323d5f3ced0eebef0c302a802100", null ],
+    [ "SynchronizationDone", "classoperations__research_1_1bop_1_1ProblemState.html#a40cfe7e1004b790e5f3d591da473883f", null ],
+    [ "kInitialStampValue", "classoperations__research_1_1bop_1_1ProblemState.html#aaafe83a2d3429bcf1b339ee27a01426f", null ]
+];
